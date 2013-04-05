@@ -1,0 +1,14 @@
+{
+    "name": "servergrove/email-test",
+    "description": "PHP script to test sending emails",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Pablo Godel",
+            "email": "pgodel@gmail.com"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "4.1.7"
+    }
+}
